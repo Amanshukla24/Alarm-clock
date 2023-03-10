@@ -8,3 +8,4 @@ There are three buttons available: SET, RESET, and STOP. The STOP button becomes
 Set alarms are displayed in an upcoming alarm list at the bottom of the screen, and each added alarm is pushed into an array. Multiple alarms can be added to the array, and each element is matched with the current time to trigger the alarm.
 
 The RESET button clears the input fields and returns them to their original values. To add an alarm to the array and upcoming alarm list, a div is created using JavaScript and removed using the remove function.
+Testing weather it's working fine or not.......
